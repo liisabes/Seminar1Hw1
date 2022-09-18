@@ -1,0 +1,15 @@
+D:\GreekBrains\C#\Introduction to programming languages (seminars)\Seminar1\Hw1\Exe3\bin\Debug\net6.0\Exe3.exe
+D:\GreekBrains\C#\Introduction to programming languages (seminars)\Seminar1\Hw1\Exe3\bin\Debug\net6.0\Exe3.deps.json
+D:\GreekBrains\C#\Introduction to programming languages (seminars)\Seminar1\Hw1\Exe3\bin\Debug\net6.0\Exe3.runtimeconfig.json
+D:\GreekBrains\C#\Introduction to programming languages (seminars)\Seminar1\Hw1\Exe3\bin\Debug\net6.0\Exe3.dll
+D:\GreekBrains\C#\Introduction to programming languages (seminars)\Seminar1\Hw1\Exe3\bin\Debug\net6.0\Exe3.pdb
+D:\GreekBrains\C#\Introduction to programming languages (seminars)\Seminar1\Hw1\Exe3\obj\Debug\net6.0\Exe3.csproj.AssemblyReference.cache
+D:\GreekBrains\C#\Introduction to programming languages (seminars)\Seminar1\Hw1\Exe3\obj\Debug\net6.0\Exe3.GeneratedMSBuildEditorConfig.editorconfig
+D:\GreekBrains\C#\Introduction to programming languages (seminars)\Seminar1\Hw1\Exe3\obj\Debug\net6.0\Exe3.AssemblyInfoInputs.cache
+D:\GreekBrains\C#\Introduction to programming languages (seminars)\Seminar1\Hw1\Exe3\obj\Debug\net6.0\Exe3.AssemblyInfo.cs
+D:\GreekBrains\C#\Introduction to programming languages (seminars)\Seminar1\Hw1\Exe3\obj\Debug\net6.0\Exe3.csproj.CoreCompileInputs.cache
+D:\GreekBrains\C#\Introduction to programming languages (seminars)\Seminar1\Hw1\Exe3\obj\Debug\net6.0\Exe3.dll
+D:\GreekBrains\C#\Introduction to programming languages (seminars)\Seminar1\Hw1\Exe3\obj\Debug\net6.0\refint\Exe3.dll
+D:\GreekBrains\C#\Introduction to programming languages (seminars)\Seminar1\Hw1\Exe3\obj\Debug\net6.0\Exe3.pdb
+D:\GreekBrains\C#\Introduction to programming languages (seminars)\Seminar1\Hw1\Exe3\obj\Debug\net6.0\Exe3.genruntimeconfig.cache
+D:\GreekBrains\C#\Introduction to programming languages (seminars)\Seminar1\Hw1\Exe3\obj\Debug\net6.0\ref\Exe3.dll
